@@ -1,2 +1,3 @@
 # cuFrontier
-CUDA Implementation of frontier data structure, which is used in GPU Graph Computing.
+
+CUDA Implementation of frontier data structure, which can be used in GPU Graph Computing.
